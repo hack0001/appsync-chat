@@ -59,3 +59,4 @@ type Subscription {
   onCreateMessage(messageConversationId: ID!): Message
     @aws_subscribe(mutations: ["createMessage"])
 }
+

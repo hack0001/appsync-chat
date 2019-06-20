@@ -1,12 +1,12 @@
 {
 	"auth": {
-		"auth": {
+		"cognito72789339": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation"
 		}
 	},
 	"api": {
-		"allamplifychatt": {
+		"appsyncChat": {
 			"service": "AppSync",
 			"providerPlugin": "awscloudformation",
 			"output": {
